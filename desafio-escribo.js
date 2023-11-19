@@ -8,6 +8,4 @@ function divisibleSum(number) {
     return sum;
   }
 
-  console.log(divisibleSum(10));
-
   module.exports = divisibleSum;
