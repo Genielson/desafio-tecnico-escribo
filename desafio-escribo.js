@@ -7,3 +7,5 @@ function divisibleSum(number) {
     }
     return sum;
   }
+
+  console.log(divisibleSum(10));
