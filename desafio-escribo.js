@@ -9,3 +9,5 @@ function divisibleSum(number) {
   }
 
   console.log(divisibleSum(10));
+
+  module.exports = divisibleSum;
